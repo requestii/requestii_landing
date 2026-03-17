@@ -1,8 +1,4 @@
-/*--------------------------------------------------------------
-|                                                              |
-|      Developed By Al Nahian | Copyright ©2020 | TinMate      |
-|                                                              |
----------------------------------------------------------------*/
+
 /* browser default styling */
 html {
   scroll-behavior: smooth;
@@ -75,12 +71,7 @@ a, a:hover, a:visited, a:focus {
   box-shadow: 0px 5px 20px rgba(50, 50, 50, .5);
 }
 
-/*--------------------------------------------------------------
-|                                                              |
-|      Developed By Al Nahian | Copyright ©2020 | TinMate      |
-|                                                              |
----------------------------------------------------------------*/
-/* navbar styling */
+
 .navbar {}
 
 /* logo/brandname styling */
@@ -160,11 +151,7 @@ h3 {
   transition: 0.3s;
 }
 
-/*--------------------------------------------------------------
-|                                                              |
-|      Developed By Al Nahian | Copyright ©2020 | TinMate      |
-|                                                              |
----------------------------------------------------------------*/
+
 /* testimonial section styling */
 #testimonials {
   padding: 10% 10%;
@@ -308,17 +295,7 @@ h4 {
   font-size: 14px;
 }
 
-/*--------------------------------------------------------------
-|                                                              |
-|      Developed By Al Nahian | Copyright ©2020 | TinMate      |
-|                                                              |
----------------------------------------------------------------*/
-/*--------------------------------------------------------------
-|                                                              |
-|     Media Queries & Responsive Styling Starts From Here     |
-|                                                              |
----------------------------------------------------------------*/
-/* ------------for mobile------------ */
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 
@@ -477,13 +454,4 @@ h4 {
   /* Extra large devices (large laptops and desktops, 1200px and up) */
   @media only screen and (min-width: 1200px) {}
 
-  /*--------------------------------------------------------------
-|                                                              |
-|     Media Queries & Responsive Styling Ends Right Here      |
-|                                                              |
----------------------------------------------------------------*/
-  /*--------------------------------------------------------------
-|                                                              |
-|      Developed By Al Nahian | Copyright ©2020 | TinMate      |
-|                                                              |
----------------------------------------------------------------*/
+}
